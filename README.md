@@ -20,9 +20,9 @@ a.	Activity Transfect initiates creation of a new transfection Metadata Template
 b.	When a clone is identified, choose the button to the right of the date to Designate New Clone.  A drop-down menu appears from which a selection from cell sample names can be made, followed by a free text window to assign a Clone ID, which is generally a position on a multi-well plate.  The Clone ID will be appended to the cell sample name and the new name will be added to the Cell Sample worksheet and appear in the drop-down list.  A new subfolder designated with the clone ID can be created in the folder created for the transfection designator.**
 
 4.	Use columns labeled # and Plate to type in # of wells and total wells in cell culture plate for the resulting Activity.  Exceptions to this: 								
-1.	# of 10cm plates							
-2.	# of vials for freezing	
-3.	# of flasks of size (T125)	
+         1.	number of 10cm plates							
+         2.	number of vials for freezing	
+         3.	number of flasks of size (T125)	
 
 5.	Select Activity Discontinue when no versions of that clone are being carried further because of loss of fluorescence or other reason. Add reason to the Notes column as free text.
 6.	The Activity Thaw applies only to cells from a bank previously subjected to Activity Freeze.  If you take a sample from the bank, indicate Activity Thaw.  This might be followed by Activity ExtractDNA. 
